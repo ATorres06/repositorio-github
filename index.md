@@ -1,1 +1,1 @@
-## Welcome to the "JAP" repository!
+Welcome to the "JAP" repository!
